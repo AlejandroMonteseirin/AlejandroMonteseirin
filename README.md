@@ -6,5 +6,5 @@ Actualmente trabajando como Analista Programador en ITSOFT. Ingeniero Informatic
 #### :fire:**Typescript Angular**
 #### :fire:**Javascript Node.js**
 #### :fire:**.Net Core ASP.Net**
-#### :fire:**PHP Laravel**:fire:
+#### :fire:**PHP Laravel**
 #### :fire:**Python Django**
